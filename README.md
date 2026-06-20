@@ -117,43 +117,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 💬 Example Questions
 
-* What are my technical skills?
-* Summarize my resume.
-* What projects have I worked on?
-* What programming languages do I know?
-* What is my educational background?
-* What internships have I completed?
-
----
-
-## 📸 Demo
-
-1. Upload a resume.
-2. Ask questions about the resume.
-3. Receive AI-generated answers based on the uploaded content.
-
----
-
-## 🔮 Future Improvements
-
-* Multi-document support
-* Chat history
-* Resume scoring
-* ATS compatibility checker
-* Job description matching
-* Cloud deployment (Render/AWS/Azure)
-* User authentication
-* Docker support
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👩‍💻 Author
 

@@ -119,8 +119,3 @@ http://127.0.0.1:5000
 
 
 
-## 👩‍💻 Author
-
-**Sudharshna Karthikeyan**
-
-If you found this project useful, feel free to ⭐ the repository.
